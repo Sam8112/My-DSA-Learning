@@ -1,0 +1,7 @@
+class Hero{
+    public:
+    //properties
+    int health=30;
+    char gender='M';
+    
+};
