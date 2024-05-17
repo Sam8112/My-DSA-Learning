@@ -1,0 +1,1 @@
+char toLowercase(char name[]){
